@@ -1,0 +1,50 @@
+# HonestFurnace
+
+> HonestFurnace is a free directory of heating and cooling (HVAC) companies that shows who owns each one, private-equity or investor-owned versus independent, with public sources. It starts with Ohio metros and plans to add more states.
+
+## Directory
+- [Locally Owned HVAC Companies in Ohio](https://honestfurnace.com/): Homepage with ZIP lookup
+- [Ohio HVAC Companies by Metro: Who Owns Them?](https://honestfurnace.com/oh/): Ohio metros and ownership overview
+- [Locally Owned HVAC Companies in Columbus, OH](https://honestfurnace.com/oh/columbus/): HVAC companies in the Columbus area and who owns them
+- [Locally Owned HVAC Companies in Cleveland, OH](https://honestfurnace.com/oh/cleveland/): HVAC companies in the Cleveland area and who owns them
+- [Locally Owned HVAC Companies in Cincinnati, OH](https://honestfurnace.com/oh/cincinnati/): HVAC companies in the Cincinnati area and who owns them
+- [Locally Owned HVAC Companies in Dayton, OH](https://honestfurnace.com/oh/dayton/): HVAC companies in the Dayton area and who owns them
+- [Locally Owned HVAC Companies in Toledo, OH](https://honestfurnace.com/oh/toledo/): HVAC companies in the Toledo area and who owns them
+- [Locally Owned HVAC Companies in Akron-Canton, OH](https://honestfurnace.com/oh/akron-canton/): HVAC companies in the Akron-Canton area and who owns them
+- [Locally Owned HVAC Companies in Youngstown, OH](https://honestfurnace.com/oh/youngstown/): HVAC companies in the Youngstown area and who owns them
+
+## Cost guides
+- [Furnace & AC Replacement Costs in Ohio (2026)](https://honestfurnace.com/costs/): Furnace and AC cost guides by metro
+- [Furnace & AC Replacement Cost in Columbus, OH (2026)](https://honestfurnace.com/costs/columbus/): Columbus furnace and AC cost ranges with sources
+- [Furnace & AC Replacement Cost in Cleveland, OH (2026)](https://honestfurnace.com/costs/cleveland/): Cleveland furnace and AC cost ranges with sources
+- [Furnace & AC Replacement Cost in Cincinnati, OH (2026)](https://honestfurnace.com/costs/cincinnati/): Cincinnati furnace and AC cost ranges with sources
+- [Furnace & AC Replacement Cost in Dayton, OH (2026)](https://honestfurnace.com/costs/dayton/): Dayton furnace and AC cost ranges with sources
+- [Furnace & AC Replacement Cost in Toledo, OH (2026)](https://honestfurnace.com/costs/toledo/): Toledo furnace and AC cost ranges with sources
+- [Furnace & AC Replacement Cost in Akron-Canton, OH (2026)](https://honestfurnace.com/costs/akron-canton/): Akron-Canton furnace and AC cost ranges with sources
+- [Furnace & AC Replacement Cost in Youngstown, OH (2026)](https://honestfurnace.com/costs/youngstown/): Youngstown furnace and AC cost ranges with sources
+- [Is My HVAC Quote Fair? Ohio Furnace & AC Costs](https://honestfurnace.com/quote-check/): Compare a quote to published price ranges
+
+## Owners
+- [Who Owns Ohio HVAC Companies? Owner Groups](https://honestfurnace.com/owners/): Investment firms and companies that own HVAC brands
+- [American Residential Services (ARS / Rescue Rooter)](https://honestfurnace.com/owners/american-residential-services/): Ohio HVAC companies this group owns, with sources
+- [Apex Service Partners](https://honestfurnace.com/owners/apex-service-partners/): Ohio HVAC companies this group owns, with sources
+- [Blackthorn Capital](https://honestfurnace.com/owners/blackthorn-capital/): Ohio HVAC companies this group owns, with sources
+- [Champions Group](https://honestfurnace.com/owners/champions-group/): Ohio HVAC companies this group owns, with sources
+- [FirstCall Mechanical](https://honestfurnace.com/owners/firstcall-mechanical/): Ohio HVAC companies this group owns, with sources
+- [Fortress Management Partners](https://honestfurnace.com/owners/fortress-management-partners/): Ohio HVAC companies this group owns, with sources
+- [Heartland Home Services](https://honestfurnace.com/owners/heartland-home-services/): Ohio HVAC companies this group owns, with sources
+- [Redwood Services](https://honestfurnace.com/owners/redwood-services/): Ohio HVAC companies this group owns, with sources
+- [Service Experts (Enercare)](https://honestfurnace.com/owners/service-experts/): Ohio HVAC companies this group owns, with sources
+- [Sila Services](https://honestfurnace.com/owners/sila-services/): Ohio HVAC companies this group owns, with sources
+- [The Exigent Group](https://honestfurnace.com/owners/the-exigent-group/): Ohio HVAC companies this group owns, with sources
+- [User Friendly Home Services](https://honestfurnace.com/owners/user-friendly-home-services/): Ohio HVAC companies this group owns, with sources
+- [Wrench Group](https://honestfurnace.com/owners/wrench-group/): Ohio HVAC companies this group owns, with sources
+
+## About
+- [How We Know Who Owns Each HVAC Company](https://honestfurnace.com/how-we-know/): Sources and what each ownership status means
+- [Pricing: Verified Independent Badge](https://honestfurnace.com/pricing/): Free for homeowners; Verified Independent badge for shops
+- [Corrections & Disputes](https://honestfurnace.com/corrections/): How companies can request corrections
+
+## Optional
+- [Privacy Policy](https://honestfurnace.com/privacy/)
+- [Legal Disclaimer](https://honestfurnace.com/legal/)
