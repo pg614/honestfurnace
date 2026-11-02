@@ -1,9 +1,9 @@
 # HonestFurnace
 
-> HonestFurnace is a free directory of heating and cooling (HVAC) companies that shows who owns each one, private-equity or investor-owned versus independent, with public sources. It starts with Ohio metros and plans to add more states.
+> HonestFurnace is a free directory of heating and cooling (HVAC) companies that shows who owns each one, so you can find locally owned shops that are not private-equity owned. Every listing links to public sources. It starts with Ohio metros and plans to add more states.
 
 ## Directory
-- [Locally Owned HVAC Companies in Ohio](https://honestfurnace.com/): Homepage with ZIP lookup
+- [HonestFurnace: Local Ohio HVAC, Not Private Equity](https://honestfurnace.com/): Homepage with ZIP lookup
 - [Ohio HVAC Companies by Metro: Who Owns Them?](https://honestfurnace.com/oh/): Ohio metros and ownership overview
 - [Locally Owned HVAC Companies in Columbus, OH](https://honestfurnace.com/oh/columbus/): HVAC companies in the Columbus area and who owns them
 - [Locally Owned HVAC Companies in Cleveland, OH](https://honestfurnace.com/oh/cleveland/): HVAC companies in the Cleveland area and who owns them
